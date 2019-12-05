@@ -16,7 +16,7 @@ the [Hyperledger Project Lifecycle document](https://wiki.hyperledger.org/commun
 
 The fabric is an implementation of blockchain technology, leveraging familiar
 and proven technologies. It is a modular architecture allowing pluggable
-implementations of various function. It features powerful container technology
+implementations of various function. It features powerful container  technology
 to host any mainstream language for smart contracts development.
 
 ## Documentation, Getting Started and Developer Guides
